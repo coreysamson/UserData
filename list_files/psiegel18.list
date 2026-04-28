@@ -572,6 +572,9 @@ NL TCHMai BluePonPP YDF
 
 #NewFoundland & Labrador Provincial Highways
 NL NL1 BluePonPP YDF
+NL NL430 NL1 HarDr
+NL NL431 MainSt NL430
+NL NL450 NL1 LewPkwy_N
 
 # ------------------------------Ireland-----------------------------------
 #International E Roads
